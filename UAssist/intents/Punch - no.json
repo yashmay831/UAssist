@@ -1,0 +1,40 @@
+{
+  "id": "ceb99f0e-e214-42ac-87e0-e8c762351414",
+  "parentId": "8d622da8-7646-499d-964e-76ac585c9fd7",
+  "rootParentId": "8d622da8-7646-499d-964e-76ac585c9fd7",
+  "name": "Punch - no",
+  "auto": true,
+  "contexts": [
+    "Punch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Punch.Punch-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok. Anything else I can assist you today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

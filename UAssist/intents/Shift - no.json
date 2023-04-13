@@ -1,0 +1,44 @@
+{
+  "id": "a449e89b-437b-4fba-8ecd-ad6916e54082",
+  "parentId": "156e8f3a-3f30-472c-b549-392dbb6c1419",
+  "rootParentId": "156e8f3a-3f30-472c-b549-392dbb6c1419",
+  "name": "Shift - no",
+  "auto": true,
+  "contexts": [
+    "Shift-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Shift.Shift-no",
+      "affectedContexts": [
+        {
+          "name": "Shift-no-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok. Anything else I can assist you today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

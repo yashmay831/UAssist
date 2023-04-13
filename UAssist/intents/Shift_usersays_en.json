@@ -1,0 +1,140 @@
+[
+  {
+    "id": "b02be41c-83e9-4453-b58c-3efefec49964",
+    "data": [
+      {
+        "text": "My schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14a0457d-cd05-4dc5-a977-997204bd13a0",
+    "data": [
+      {
+        "text": "My shift",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14e5c205-70c1-4eb1-94c8-24490b6cccbf",
+    "data": [
+      {
+        "text": "shift",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "884d608c-6d53-470e-929e-562479b411c8",
+    "data": [
+      {
+        "text": "schedule",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00c4ed1a-f6b8-41c0-a370-c06824496ce5",
+    "data": [
+      {
+        "text": "My schedule for today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "382a3ce4-b787-47ea-a3f8-8d812e49822c",
+    "data": [
+      {
+        "text": "tomorrow",
+        "userDefined": false
+      },
+      {
+        "text": " shift",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8a2d140-0f71-445a-855a-a2c61b04760d",
+    "data": [
+      {
+        "text": "today",
+        "userDefined": false
+      },
+      {
+        "text": " shift",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a70f3a18-1d07-46ce-b427-697c31a33ff8",
+    "data": [
+      {
+        "text": "extract shift",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a05866d-0473-4afe-9a7e-25cd7fbaf04e",
+    "data": [
+      {
+        "text": "show shift",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f87d95a9-08e6-44c6-9679-98c7ba1e06d2",
+    "data": [
+      {
+        "text": "get shift",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

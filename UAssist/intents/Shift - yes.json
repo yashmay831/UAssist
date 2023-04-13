@@ -1,0 +1,36 @@
+{
+  "id": "0940a89f-874a-484e-85f9-12d3e8be88a1",
+  "parentId": "156e8f3a-3f30-472c-b549-392dbb6c1419",
+  "rootParentId": "156e8f3a-3f30-472c-b549-392dbb6c1419",
+  "name": "Shift - yes",
+  "auto": true,
+  "contexts": [
+    "Shift-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Shift.Shift-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

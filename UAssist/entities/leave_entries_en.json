@@ -1,0 +1,16 @@
+[
+  {
+    "value": "Sick",
+    "synonyms": [
+      "Sick",
+      "sick leave"
+    ]
+  },
+  {
+    "value": "Vacation",
+    "synonyms": [
+      "vacation",
+      "vacation leave"
+    ]
+  }
+]

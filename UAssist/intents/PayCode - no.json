@@ -1,0 +1,40 @@
+{
+  "id": "b16bd182-c1bb-4b44-9ace-a3c081635a3c",
+  "parentId": "66cc8877-e1a5-4aa1-9139-d3c626517079",
+  "rootParentId": "66cc8877-e1a5-4aa1-9139-d3c626517079",
+  "name": "PayCode - no",
+  "auto": true,
+  "contexts": [
+    "PayCode-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "PayCode.PayCode-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok. Anything else I can assist you today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

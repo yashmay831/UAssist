@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1cc7d37a-689d-4cb3-bacd-2fcb4bdc50f4",
+    "data": [
+      {
+        "text": "leaves in store",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c72083c4-dc28-4ce4-b8d9-49de7846931e",
+    "data": [
+      {
+        "text": "leaves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c2661dd-7679-407b-8db8-cdd542ee001d",
+    "data": [
+      {
+        "text": "available leaves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f3b882f-069b-4bb3-81eb-2c8c64eab2dd",
+    "data": [
+      {
+        "text": "get my leaves",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "292926ee-3d72-4d2e-ad8b-a676757b22a7",
+    "data": [
+      {
+        "text": "leave balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2693502b-3f25-4432-90a3-98099112e5c3",
+    "data": [
+      {
+        "text": "get my leave balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "id": "79d0f2f8-fc6b-4024-bd45-77df7f5ec1ff",
+  "parentId": "69d8792e-004d-4e35-aae2-69fc9155c590",
+  "rootParentId": "69d8792e-004d-4e35-aae2-69fc9155c590",
+  "name": "TimeOff - yes",
+  "auto": true,
+  "contexts": [
+    "TimeOff-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "TimeOff.TimeOff-yes",
+      "affectedContexts": [
+        {
+          "name": "TimeOff-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "04845671-ff6f-445f-98e9-3891e4e26d88",
+          "name": "leave",
+          "required": true,
+          "dataType": "@leave",
+          "value": "$leave",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What type of leave do you want me to apply? Sick Leave or Vacation Leave"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "a6a651bb-33fe-48d4-b9d3-683110e55472",
+    "data": [
+      {
+        "text": "vacation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "830c3ce3-0a49-4e5c-b65f-cb1a64cc7b3d",
+    "data": [
+      {
+        "text": "employee off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17db98e2-2aba-470f-8098-e4fab8a357c5",
+    "data": [
+      {
+        "text": "of",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f5dac4f-b46d-4656-9381-670e8f456604",
+    "data": [
+      {
+        "text": "Off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c96f04d-33b4-41ce-af90-7b555e73eae2",
+    "data": [
+      {
+        "text": "time of",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0f88330-bf32-4371-9439-f61e8c1e0726",
+    "data": [
+      {
+        "text": "time off",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68c40dd4-719f-44d6-ae0b-51563fb5995b",
+    "data": [
+      {
+        "text": "i am sick ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c34730c-43bf-4cc9-a6c9-eceecfd609e7",
+    "data": [
+      {
+        "text": "apply timeoff",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bdcc1e5-4ad6-4f26-a50b-0d6f7dfa25ca",
+    "data": [
+      {
+        "text": "timeoff",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4886946e-709f-4fb5-a736-b9da53e1b625",
+    "data": [
+      {
+        "text": "add timeoff",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

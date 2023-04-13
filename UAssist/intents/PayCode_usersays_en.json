@@ -1,0 +1,93 @@
+[
+  {
+    "id": "6eccdea4-bfa5-4568-9555-34b427ad65c9",
+    "data": [
+      {
+        "text": "setup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "032008c1-00f7-4af9-8317-03e0623b30cf",
+    "data": [
+      {
+        "text": "configure a paycode for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf89011a-bc74-40c5-8e8e-6ac70ad09e06",
+    "data": [
+      {
+        "text": "configure paycode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2315ab99-9152-4d0d-906b-2e85fe6245fa",
+    "data": [
+      {
+        "text": "insert paycode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "943137f7-e330-48d5-8c00-e10a3815689a",
+    "data": [
+      {
+        "text": "create paycode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8565ce06-60d8-4b9c-a728-66eee7efd23c",
+    "data": [
+      {
+        "text": "paycode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "418fe271-bb3e-46f4-bfef-686b1e24daa0",
+    "data": [
+      {
+        "text": "add paycode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

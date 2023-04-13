@@ -1,0 +1,28 @@
+[
+  {
+    "id": "e6a69540-ffdb-4ed1-b74e-eef7dba89a86",
+    "data": [
+      {
+        "text": "Create a pay code.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c57ac077-6eb4-43bc-92e2-c886ce01ed85",
+    "data": [
+      {
+        "text": "Setup a Regular Paycode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

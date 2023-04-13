@@ -1,0 +1,40 @@
+{
+  "id": "9ea1bfd0-3a85-484c-a57f-c91259eb3648",
+  "parentId": "69d8792e-004d-4e35-aae2-69fc9155c590",
+  "rootParentId": "69d8792e-004d-4e35-aae2-69fc9155c590",
+  "name": "TimeOff - no",
+  "auto": true,
+  "contexts": [
+    "TimeOff-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "TimeOff.TimeOff-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok. Anything else I can assist you today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

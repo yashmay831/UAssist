@@ -1,0 +1,39 @@
+{
+  "id": "40189091-dfad-4aa4-9cc4-9064688fed2f",
+  "parentId": "8d622da8-7646-499d-964e-76ac585c9fd7",
+  "rootParentId": "8d622da8-7646-499d-964e-76ac585c9fd7",
+  "name": "Punch - yes",
+  "auto": true,
+  "contexts": [
+    "Punch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Punch.Punch-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Punch Added successfully."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
